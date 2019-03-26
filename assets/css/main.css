@@ -228,6 +228,14 @@ button:focus {
   background: #CE332A;
 }
 
+.social-icon .github:hover {
+  background: #1260A2;
+}
+
+.social-icon .youtube:hover {
+  background: #1260A2;
+}
+
 /* ScrollToTop */
 a.back-to-top {
   display: none;
@@ -844,6 +852,14 @@ hr {
   color: #fb3958;
 }
 
+.team-item .social-icons li .lni-youtube {
+  color: #fb3958;
+}
+
+.team-item .social-icons li .lni-github {
+  color: #fb3958;
+}
+
 .team-item .info-text {
   margin-bottom: 10px;
 }
@@ -1118,6 +1134,14 @@ hr {
 
 .testimonial-item .icon-social .google:hover {
   background: #CE332A;
+}
+
+.testimonial-item .icon-social .youtube:hover {
+  background: #D6274D;
+}
+
+.testimonial-item .icon-social .github:hover {
+  background: #3b5999;
 }
 
 .owl-pagination {
@@ -1414,3 +1438,12 @@ textarea {
 .social-icon .google:hover {
   background: #CE332A;
 }
+
+.social-icon .youtube:hover {
+  background: #D6274D;
+}
+
+.social-icon .github:hover {
+  background: #1260A2;
+}
+
