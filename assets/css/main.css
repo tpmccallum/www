@@ -232,10 +232,6 @@ button:focus {
   background: #1260A2;
 }
 
-.social-icon .youtube:hover {
-  background: #1260A2;
-}
-
 /* ScrollToTop */
 a.back-to-top {
   display: none;
@@ -852,11 +848,7 @@ hr {
   color: #fb3958;
 }
 
-.team-item .social-icons li .lni-youtube {
-  color: #fb3958;
-}
-
-.team-item .social-icons li .lni-github {
+.team-item .social-icons li .lni-github-original {
   color: #fb3958;
 }
 
@@ -1134,10 +1126,6 @@ hr {
 
 .testimonial-item .icon-social .google:hover {
   background: #CE332A;
-}
-
-.testimonial-item .icon-social .youtube:hover {
-  background: #D6274D;
 }
 
 .testimonial-item .icon-social .github:hover {
@@ -1437,10 +1425,6 @@ textarea {
 
 .social-icon .google:hover {
   background: #CE332A;
-}
-
-.social-icon .youtube:hover {
-  background: #D6274D;
 }
 
 .social-icon .github:hover {
